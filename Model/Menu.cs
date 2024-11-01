@@ -14,10 +14,10 @@ class MenuSinhVien
             3/ Xoá sinh viên.
             4/ Tính điểm trung bình và xếp loại. 
             5/ Tìm kiếm sinh viên theo tên (tên sinh viên không dấu). (gõ có dấu mới tìm đc ạ :))
-            5/ Hiển thị danh sách thông tin sinh viên.
-            6/ Hiển thị danh sách sinh viên theo điểm tăng dần.
-            7/ Hiển thị danh sách sinh viên theo tên tìm kiếm.
-            8/ Thoát.
+            6/ Hiển thị danh sách thông tin sinh viên.
+            7/ Hiển thị danh sách sinh viên theo điểm tăng dần.
+            8/ Hiển thị danh sách sinh viên theo tên tìm kiếm.
+            9/ Thoát.
         ");
     }
 
